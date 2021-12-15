@@ -68,5 +68,4 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
     //added to create commit explanation.
-    //added to create commit
 }
